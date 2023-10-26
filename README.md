@@ -1,7 +1,7 @@
 # kanes
 
 Função para converter duas listas em um dicionário
-"Está em fase de desenvolvimento"
+"Está em fase de desenvolvimento".
 Mesmo que duas listas tenham tamanhos diferentes o último elemento da lista maior não entrará no dicionário.
 Se mostrou eficaz usado em conjunto com a função bar() da biblioteca matplotlib.
 
